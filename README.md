@@ -1,6 +1,6 @@
 # 30天Python入门
 
- 在你开始学习之前, 我们首先先下载[Github Desktop](https://desktop.github.com/]到本地，然后按照指示进行安装。然后clone本Github Repository到本地。
+ 在你开始学习之前, 我们首先先下载[Github Desktop](https://desktop.github.com/)到本地，然后按照指示进行安装。然后clone本Github Repository到本地。
 
  
 | 时间 |   任务     | 学习方式     |预计学习时间     |  更新时间|
