@@ -8,6 +8,7 @@
 |第1天|[Learn Python the smart way](https://github.com/datawhalechina/learn-python-the-smart-way)| 阅读材料+学习笔记+答疑 | 6小时|2023-01-01
 |第2天|[Python for Everyone(Getting started with Python)](https://www.coursera.org/learn/python?specialization=python)| 视频学习+作业+答疑 | 6小时|2023-01-01
 |第3天|[Python for Everyone(Python Data Structures)](https://www.coursera.org/learn/python-data?specialization=python)| 视频学习+作业+答疑 | 6小时|2023-01-03
+|第4天|[Python for Everyone(Using Python to Access Web Data)](https://www.coursera.org/learn/python-network-data?specialization=python)| 视频学习+作业+答疑 | 6小时|2023-01-05
 
 
 **注意事项**
