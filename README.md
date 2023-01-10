@@ -8,9 +8,9 @@
 |第1天|[Learn Python the smart way](https://github.com/datawhalechina/learn-python-the-smart-way)| 阅读材料+学习笔记+答疑 | 6小时|2023-01-01
 |第2天|[Python for Everyone(Getting started with Python)](https://www.coursera.org/learn/python?specialization=python)| 视频学习+作业+答疑 | 6小时|2023-01-01
 |第3天|[Python for Everyone(Python Data Structures)](https://www.coursera.org/learn/python-data?specialization=python)| 视频学习+作业+答疑 | 6小时|2023-01-03
-|第4天|[Python for Everyone(Using Python to Access Web Data)](https://www.coursera.org/learn/python-network-data?specialization=python)| 视频学习+作业+答疑 | 8小时|2023-01-05
-|第5天|[Python for Everyone(Using Databases with Python)](https://www.coursera.org/learn/python-databases?specialization=python)| 视频学习+作业+答疑 | 10小时|2023-01-05
-
+|第4~5天|[Python for Everyone(Using Python to Access Web Data)](https://www.coursera.org/learn/python-network-data?specialization=python)| 视频学习+作业+答疑 | 12小时|2023-01-05
+|第6~7天|[Python for Everyone(Using Databases with Python)](https://www.coursera.org/learn/python-databases?specialization=python)| 视频学习+作业+答疑 | 12小时|2023-01-05
+|第8~10天|[Python for Everyone(Capstone: Retrieving, Processing, and Visualizing Data with Python)](https://www.coursera.org/learn/python-data-visualization?specialization=python)| 视频学习+作业+答疑 | 18小时|2023-01-10
 **注意事项**
 
 - 每个课程对应的学习笔记或者作业需要放在对应的文件夹下。
