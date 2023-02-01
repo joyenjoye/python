@@ -11,6 +11,7 @@
 |第4~5天|[Python for Everyone(Using Python to Access Web Data)](https://www.coursera.org/learn/python-network-data?specialization=python)| 视频学习+作业+答疑 | 12小时|2023-01-05
 |第6~7天|[Python for Everyone(Using Databases with Python)](https://www.coursera.org/learn/python-databases?specialization=python)| 视频学习+作业+答疑 | 12小时|2023-01-05
 |第8~10天|[Python for Everyone(Capstone: Retrieving, Processing, and Visualizing Data with Python)](https://www.coursera.org/learn/python-data-visualization?specialization=python)| 视频学习+作业+答疑 | 18小时|2023-01-10
+
 **注意事项**
 
 - 每个课程对应的学习笔记或者作业需要放在对应的文件夹下。
